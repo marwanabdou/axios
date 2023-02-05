@@ -1,0 +1,11 @@
+.user-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .user-list__item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
